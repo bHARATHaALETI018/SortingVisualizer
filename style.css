@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(90, 72, 95);
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: whitesmoke;
+}
